@@ -2,7 +2,7 @@
 - 👀 I’m interested in aprender todo lo que pueda :D
 - 🌱 I’m currently learning desarrollo web.
 - 💞️ 
-- 📫 How to reach me  @abrill.__ (instagram)// abrilbrilnu@gmail.com (mail)
+- 📫 How to reach me abrilbrilnu@gmail.com 
 
 <!---
 abrilbril/abrilbril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
